@@ -1,4 +1,4 @@
-# stock-trader
+# Projeto03-Stock-Trader
 
 ## Project setup
 ```
@@ -25,6 +25,3 @@ npm run test
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# Projeto03-Stock-Trader
